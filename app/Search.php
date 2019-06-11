@@ -60,12 +60,6 @@ abstract class Search
                 'method' => 'get',
                 'type' => 'standard',
             ],
-            'qwant' => [
-                'url' => 'https://www.qwant.com/',
-                'var' => 'q',
-                'method' => 'get',
-                'type' => 'standard',
-            ],
         ];
     }
 

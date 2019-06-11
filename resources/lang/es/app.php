@@ -21,7 +21,6 @@ return array (
   'options.google' => 'Google',
   'options.ddg' => 'DuckDuckGo',
   'options.bing' => 'Bing',
-  'options.qwant' => 'Qwant',
   'options.yes' => 'Sí',
   'options.no' => 'No',
   'buttons.save' => 'Guardar',
